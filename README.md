@@ -4,7 +4,7 @@ This Tech.io runner works with an angular project using angular-cli.
 
 # What it Does
 
-This node7.4 runner installs the dependencies using `npm install`. The dependencies must be specified in the `package.json` file at the project root as specified in the [official documentation](https://docs.npmjs.com/getting-started/using-a-package.json).
+This node 7.4 runner installs the dependencies using `npm install`. The dependencies must be specified in the `package.json` file at the project root as specified in the [official documentation](https://docs.npmjs.com/getting-started/using-a-package.json).
 
 # How to Use
 
