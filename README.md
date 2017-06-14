@@ -12,7 +12,7 @@ In order to use this runner in your project, edit the `techio.yml` file and add 
 
 ```yaml
 runner:
-    name: codingame/node-angular-runner
+    name: techio/node-angular-runner
     version: latest
 ```
 
